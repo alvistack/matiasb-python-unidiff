@@ -1,0 +1,5 @@
+python-unidiff source: file-without-copyright-information
+python-unidiff source: no-debian-changes
+python-unidiff source: source-contains-prebuilt-windows-binary
+python-unidiff source: source-is-missing
+python-unidiff source: source-package-encodes-python-version
