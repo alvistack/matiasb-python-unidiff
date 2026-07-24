@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "unidiff"
 description = "Unified diff parsing/metadata extraction library."
-readme = "README.rst"
+readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [
