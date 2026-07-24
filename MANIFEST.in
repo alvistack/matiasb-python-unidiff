@@ -1,7 +1,6 @@
 include HISTORY
 include LICENSE
-include README.rst
-include ROADMAP.md
+include README.md
 include unidiff/py.typed
 recursive-include tests *.py
 recursive-include tests/samples *
