@@ -9,3 +9,5 @@ unidiff.egg-info
 
 # Vim
 *.swp
+
+.pybuild/
